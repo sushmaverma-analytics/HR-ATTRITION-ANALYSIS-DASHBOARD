@@ -9,7 +9,22 @@ This project analyzes employee attrition and workforce trends using Power BI. Th
 - Power BI
 - Power Query
 - DAX
-- SQL
+- SQL Server
+# SQL Data Cleaning
+- Removed duplicate records
+- Trimmed leading and trailing spaces using TRIM()
+- Standardized text using UPPER() and LOWER()
+- Replaced null values
+- Corrected inconsistent values
+# Power Query Transformations
+- Changed data types
+- Removed errors
+- Handled missing values
+- Renamed columns
+- Created custom columns
+- Split and merged columns where required
+- Applied data profiling checks
+- Validated data types
 
 # Data Model
 
@@ -33,8 +48,12 @@ This project analyzes employee attrition and workforce trends using Power BI. Th
 - What-If Parameter Analysis
 - Dynamic DAX Measures
 - Key Influencers Visual
+- Bookmarks & Selection
+- My Github Link
 
   # Dashboard preview
+  <img width="1142" height="652" alt="Screenshot 2026-06-14 040118" src="https://github.com/user-attachments/assets/62654f09-5e28-4cf1-90fe-611ede46ea9f" />
+
   
 
 
